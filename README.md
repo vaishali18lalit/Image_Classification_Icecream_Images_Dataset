@@ -1,0 +1,2 @@
+# Image_Classification_Icecream_Images_Dataset
+Image Classification performed on ICECREAM dataset using ALEXNET pretrained model
